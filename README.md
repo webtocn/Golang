@@ -1,1 +1,6 @@
 ![image](http://img.linux.net.cn/data/attachment/album/201503/02/094909mvri0idqhdsud4df.png.large.jpg)
+#[文档](https://golang.org/doc/)
+#[软件包](https://golang.org/pkg/)
+#[项目](https://golang.org/project/)
+#[帮助](https://golang.org/help/)
+#[博客](http://blog.golang.org/)
