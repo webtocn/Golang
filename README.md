@@ -13,13 +13,14 @@ func main() {
 ```
 >Hello, 世界    
 
-Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.
+Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.    
 Go是一个开源的程序语言，她能够容易的构建高效软件。    
 
 #[下载Go安装包](https://golang.org/dl/)
 
-特殊文章
-[Go这六年](https://blog.golang.org/6years)
-Six years ago today the Go language was released as an open source project. Since then, more than 780 contributors have made over 30,000 commits to the project's 22 repositories. The ecosystem continues to grow, with GitHub reporting more than 90,000 Go repositories. And, offline, we see new Go events and user groups pop up around the world with regularity.
-[2015Go在英国](https://blog.golang.org/gouk15)
-On August 21st the Go community gathered in London for the first edition of Golang UK. The conference featured two parallel tracks and nearly 400 gophers attended.
+优秀文章    
+[Go这六年](https://blog.golang.org/6years)    
+Six years ago today the Go language was released as an open source project. Since then, more than 780 contributors have made over 30,000 commits to the project's 22 repositories. The ecosystem continues to grow, with GitHub reporting more than 90,000 Go repositories. And, offline, we see new Go events and user groups pop up around the world with regularity.    
+[2015Go在英国](https://blog.golang.org/gouk15)    
+On August 21st the Go community gathered in London for the first edition of Golang UK. The conference featured two parallel tracks and nearly 400 gophers attended.    
+
