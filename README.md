@@ -27,3 +27,10 @@ Six years ago today the Go language was released as an open source project. Sinc
 [2015Go在英国](https://blog.golang.org/gouk15)    
 On August 21st the Go community gathered in London for the first edition of Golang UK. The conference featured two parallel tracks and nearly 400 gophers attended.    
 
+
+========
+在国内访问外国的网站速度很慢而且很多网站不能访问，这里为了方便那些初学者或英文阅读能力薄弱者，webtocn社区翻译一些技术网站，希望能给大家带来一些帮助。
+
+本模块我们主要翻译Go官方网站[https://golang.org/](https://golang.org/)
+
+希望在翻译和交流时尽量使用中文
