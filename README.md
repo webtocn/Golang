@@ -14,3 +14,4 @@ func main() {
 >Hello, 世界    
 
 Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.
+Go是一个开源的程序语言，她能够容易的构建高效软件。
